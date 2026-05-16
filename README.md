@@ -1,3 +1,4 @@
+![Header](https://github.com/shahyunis256-spec/shahyunis256-spec/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Yunis Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
